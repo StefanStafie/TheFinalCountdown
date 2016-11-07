@@ -1,18 +1,39 @@
-#blank{
+body{
 	background-image:url("http://wallpup.com/wp-content/uploads/2013/02/Happy-Birthday-Wallpapers.jpg");
-	padding-top: 30px;
+	padding-top: 170px;
 	margin:-8px;
 	background-size: 100% 100%;
 	height:1000px;
 	background-attachment: fixed;
+	
 
 }
-iframe{
-	width: 578px;
-	height: 255px;
+#blank2{
+	width: 728px;
+	height: 80px;
+	margin:auto;
+	padding:15px;
+	border-radius:30px;
+
+}
+#blank{
+	width: 728px;
+	height: 80px;
+	background: rgba(76, 175, 80, 0.7) ;
+	margin:auto;
+	padding:15px;
+	border-radius:30px;
+	position:fixed;
+
 }
 #please{
-	width: 578px;
-	height: 255px;
+    position:fixed;
+	font-size:46px;
+	font-align:center;
+	background-color:red;
+	width: 708px;
+	height: 60px;
+	padding:10px;
 	margin:auto;
+	border-radius: 30px;
 }
