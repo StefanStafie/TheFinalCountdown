@@ -17,7 +17,7 @@ body{
 
 }
 #blank{
-	width: 720px;
+	width: 770px;
 	height: 80px;
 	background: rgba(76, 175, 80, 0.7) ;
 	margin:auto;
@@ -31,7 +31,7 @@ body{
 	font-size:46px;
 	font-align:center;
 	background-color:green;
-	width: 700px;
+	width: 750px;
 	height: 60px;
 	padding:10px;
 	margin:auto;
